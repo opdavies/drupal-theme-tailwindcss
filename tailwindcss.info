@@ -1,0 +1,4 @@
+name = Tailwind CSS Starter Kit
+description = A starter kit theme for Drupal 7 and Tailwind CSS.
+core = 7.x
+stylesheets[all][] = dist/main.css
