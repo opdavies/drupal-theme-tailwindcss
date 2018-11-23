@@ -7,6 +7,7 @@ USAGE
 -----
 
 ```
+mkdir -p themes/custom
 cd themes/custom
 git clone https://git.drupal.org/sandbox/opdavies-3015651 tailwindcss
 cd tailwindcss
