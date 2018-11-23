@@ -36,6 +36,11 @@
  * @import "components/forms";
  */
 
+.block,
+.node {
+  @apply mb-4;
+}
+
 /**
  * This injects all of Tailwind's utility classes, generated based on your
  * config file.
