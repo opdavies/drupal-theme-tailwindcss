@@ -557,6 +557,11 @@ table {
  * @import "components/forms";
  */
 
+input {
+  border-width: 1px;
+  border-color: #b8c2cc;
+}
+
 .block,
 .node {
   margin-bottom: 1rem;
