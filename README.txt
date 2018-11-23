@@ -10,7 +10,11 @@ USAGE
 mkdir -p themes/custom
 cd themes/custom
 git clone https://git.drupal.org/sandbox/opdavies-3015651 tailwindcss
-cd tailwindcss
+```
+
+To re-compile the CSS:
+
+```
 npm install
 npm run build
 ```
@@ -20,8 +24,7 @@ DEPENDENCIES
 
 - Laravel Mix (https://github.com/JeffreyWay/laravel-mix) for PostCSS compiling
   and asset generation.
-- The Laravel Mix Tailwind plugin. This includes the dependency on Tailwind
-  CSS itself.
+- The Laravel Mix Tailwind plugin.
 
 CONFIGURATION OVERRIDES
 -----------------------
