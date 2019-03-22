@@ -7,7 +7,6 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "laravel-mix": "^2.1.14",
-    "laravel-mix-tailwind": "^0.1.0",
     "tailwindcss": "^1.0.0-beta.3"
   }
 }
