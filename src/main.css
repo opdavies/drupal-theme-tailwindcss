@@ -37,7 +37,7 @@
  */
 
 input {
-  @apply border border-grey;
+  @apply border border-gray-500;
 }
 
 .block,
