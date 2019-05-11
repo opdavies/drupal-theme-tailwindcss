@@ -1,7 +1,9 @@
 module.exports = {
   prefix: 'tw-',
   important: true,
-  theme: {},
+  theme: {
+    extend: {},
+  },
   variants: {},
-  plugins: [],
+  plugins: []
 }
