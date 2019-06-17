@@ -2,6 +2,6 @@ name: Tailwind CSS Starter Kit
 description: A starter kit theme for Drupal 8 and Tailwind CSS.
 core: 8.x
 type: theme
-base theme: classy
+base theme: stable
 libraries:
   - tailwindcss/global-styling
