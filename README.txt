@@ -9,7 +9,7 @@ USAGE
 ```
 mkdir -p sites/all/themes/custom
 cd sites/all/themes/custom
-git clone https://git.drupal.org/sandbox/opdavies-3015651 tailwindcss
+git clone https://git.drupalcode.org/project/tailwindcss
 ```
 
 To re-compile the CSS:
