@@ -16,6 +16,7 @@ mix.postCss('src/tailwind.css', 'dist', [
  * 'whitelistPatterns' or 'whistlistPatternsChildren'. For more information on
  * whitelisting, see https://www.purgecss.com/whitelisting.
  */
+// require('laravel-mix-purgecss')
 // mix.purgeCss({
 //   folders: ['templates'],
 //   extensions: ['html', 'php', 'twig'],
