@@ -26,6 +26,15 @@ DEPENDENCIES
   and asset generation.
 - The Laravel Mix Tailwind plugin.
 
+BUILD COMMANDS
+--------------
+
+- Use `npm run dev` or `yarn dev` to generate the un-minified, expanded CSS.
+- This is intended for local development. You can also use `npm run watch` or
+  `yarn watch` to re-compile automatically when changes are made.
+- Use `npm run prod` or `yarn prod` to generate the minified, compressed CSS.
+  These are the versions intended for use on production.
+
 CONFIGURATION OVERRIDES
 -----------------------
 
