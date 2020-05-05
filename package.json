@@ -11,7 +11,7 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "laravel-mix": "^2.1.14",
-    "laravel-mix-purgecss": "^4.1.0",
+    "laravel-mix-purgecss": "^5.0.0",
     "tailwindcss": "^1.0.1"
   }
 }
